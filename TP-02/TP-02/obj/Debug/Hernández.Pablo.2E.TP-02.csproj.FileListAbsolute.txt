@@ -1,0 +1,10 @@
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\obj\Debug\Hernández.Pablo.2E.TP-02.csproj.AssemblyReference.cache
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\obj\Debug\Hernández.Pablo.2E.TP-02.csproj.CoreCompileInputs.cache
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\obj\Debug\Hernández.Pablo.2E.TP-02.csproj.CopyComplete
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\pablu\Documents\Programacion\Programacion 2\Tp 2\tps_laboratorio_ii\TP-02\TP-02\obj\Debug\TP-02.pdb
